@@ -20,4 +20,5 @@ Example using spring boot, and spring data reactive cassandra repository
 * java 8
 * docker
 * cassandra
+* lombok plugin for IDE
 * maven
