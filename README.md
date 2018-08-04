@@ -1,6 +1,6 @@
 # Spring Example Reactive Cassandra Repository
 
-Example using spring boot, and kafka
+Example using spring boot, and spring data reactive cassandra repository
 
 ## Getting Started
 
